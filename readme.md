@@ -1,3 +1,4 @@
 # Practica 1
 
-Esta es la practica 1
+# ESOTEC
+## Esta pagiana se va a usar para el uso de las persona que no quieran 
